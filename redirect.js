@@ -20,5 +20,9 @@ function redirectToDynamicUrl() {
     window.location.href = chosenUrl;
 }
 
-// When the window loads, execute the redirect
-window.onload = redirectToDynamicUrl;
+// Set the redirection to occur on window click
+window.onload = function() {
+    redirectToDynamicUrl(); // Set the URL to be redirected to
+    window.onclick = function() {
+        window.location.href = chosenUrl; // Redirect on click
+    };
