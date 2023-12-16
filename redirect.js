@@ -1,10 +1,12 @@
 // redirect.js
+var chosenUrl = ""; // Global variable to store the chosen URL
+
 function getDynamicUrl() {
     // List of URLs to choose from
     var urls = [
-        "https://ads.stepwith.me/vivobarefoot-geo-court-iii-mens.html",
-        "https://ads.stepwith.me/vivobarefoot-primus-lite-iii.html",
-        "https://ads.stepwith.me/vivobarefoot-tracker-fg.html",
+        "https://example1.com",
+        "https://example2.com",
+        "https://example3.com",
         // Add more URLs as needed
     ];
 
@@ -14,8 +16,8 @@ function getDynamicUrl() {
 }
 
 function redirectToDynamicUrl() {
-    var url = getDynamicUrl();
-    window.location.href = url;
+    chosenUrl = getDynamicUrl();
+    window.location.href = chosenUrl;
 }
 
 // When the window loads, execute the redirect
