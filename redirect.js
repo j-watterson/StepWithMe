@@ -4,9 +4,9 @@ var chosenUrl = ""; // Global variable to store the chosen URL
 function getDynamicUrl() {
     // List of URLs to choose from
     var urls = [
-        "https://example1.com",
-        "https://example2.com",
-        "https://example3.com",
+        "https://ads.stepwith.me/shoes/",
+        "https://ads.stepwith.me/shoes/",
+        "https://ads.stepwith.me/shoes/",
         // Add more URLs as needed
     ];
 
