@@ -2,18 +2,28 @@
 <html>
 <head>
     <title>Dynamic Redirect</title>
+    <style>
+        /* CSS to style the background image */
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-size: cover;
+            background-position: center;
+        }
+    </style>
     <script src="redirect.js"></script>
 </head>
 <body>
     <p>Redirecting to <span id="urlPlaceholder">...</span></p>
-    <p>Modified URL: <span id="modifiedUrlPlaceholder">...</span></p>
     <script>
-        // This script updates the content of the page with the chosen URL
+        // JavaScript to update the background image and URL placeholders
         document.getElementById('urlPlaceholder').textContent = chosenUrl;
-
-        // Modify the URL by replacing '.html' with '.png'
         var modifiedUrl = chosenUrl.replace('.html', '.png');
-        document.getElementById('modifiedUrlPlaceholder').textContent = modifiedUrl;
+        document.body.style.backgroundImage = 'url("' + modifiedUrl + '")';
     </script>
 </body>
 </html>
