@@ -5,6 +5,10 @@
     <script src="redirect.js"></script>
 </head>
 <body>
-    <p>Redirecting...</p>
+    <p>Redirecting to <span id="urlPlaceholder">...</span></p>
+    <script>
+        // This script updates the content of the page with the chosen URL
+        document.getElementById('urlPlaceholder').textContent = chosenUrl;
+    </script>
 </body>
 </html>
