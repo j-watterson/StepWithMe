@@ -2,9 +2,9 @@
 function getDynamicUrl() {
     // List of URLs to choose from
     var urls = [
-        "https://example1.com",
-        "https://example2.com",
-        "https://example3.com",
+        "https://stepwith.me/vivobarefoot-geo-court-iii-mens.html",
+        "https://stepwith.me/vivobarefoot-primus-lite-iii.html",
+        "https://stepwith.me/vivobarefoot-tracker-fg.html",
         // Add more URLs as needed
     ];
 
