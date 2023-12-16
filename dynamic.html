@@ -6,9 +6,14 @@
 </head>
 <body>
     <p>Redirecting to <span id="urlPlaceholder">...</span></p>
+    <p>Modified URL: <span id="modifiedUrlPlaceholder">...</span></p>
     <script>
         // This script updates the content of the page with the chosen URL
         document.getElementById('urlPlaceholder').textContent = chosenUrl;
+
+        // Modify the URL by replacing '.html' with '.png'
+        var modifiedUrl = chosenUrl.replace('.html', '.png');
+        document.getElementById('modifiedUrlPlaceholder').textContent = modifiedUrl;
     </script>
 </body>
 </html>
