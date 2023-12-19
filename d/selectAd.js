@@ -4,10 +4,11 @@
 
 function getAdId() {
     // Generate a random index based on the itemList length
-    var randomIndex = Math.floor(Math.random() * itemList.length);
+    //var randomIndex = Math.floor(Math.random() * itemList.length);
 
     // Return the ID (first element) of a random item from itemList
-    return itemList[randomIndex][0];
+    //return itemList[randomIndex][0];
+    return "shoes/altra-escalante-2.5";
 }
 
 
