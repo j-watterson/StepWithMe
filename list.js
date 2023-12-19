@@ -9,7 +9,7 @@ var itemList = [
     ["/shoes/merrell-vapor-glove-6", "https://www.merrell.com/US/en/vapor-glove-6/195018950710.html", true],
     ["/shoes/vivobarefoot-geo-court-iii-mens", "https://www.vivobarefoot.com/us/geo-court-iii-mens", true],
     ["/shoes/vivobarefoot-primus-lite-iii", "https://www.vivobarefoot.com/us/primus-lite-iii-mens-ss22", true],
-    ["/shoes/vivobarefoot-primus-lite-knit-mens.png", "https://www.vivobarefoot.com/us/primus-lite-knit-mens", true],
+    ["/shoes/vivobarefoot-primus-lite-knit-mens", "https://www.vivobarefoot.com/us/primus-lite-knit-mens", true],
     ["/shoes/vivobarefoot-tracker-fg", "https://www.vivobarefoot.com/us/tracker-ii-fg-mens-ss22", true],
     /*["/shoes/", "linky", true],
     ["/shoes/", "linky", true],
