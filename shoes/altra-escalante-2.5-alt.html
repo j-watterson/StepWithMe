@@ -38,13 +38,14 @@
     </style>
 </head>
 <body>
-    <img src="/shoes/altra-escalante-2.5.png" alt="Ad Image">
+    <img src="" alt="Ad Image">
     <p>If you are not redirected automatically, follow this <a href="">link</a>.</p>
 
     <!-- Use JavaScript to update hrefs -->
     <script>
         document.querySelector('meta[http-equiv="refresh"]').setAttribute('content', '3;url=' + redirectUrl);
         document.querySelector('p a').setAttribute('href', redirectUrl);
+        document.querySelector('img').setAttribute('src', imgSrc); // Set image source
     </script>
 </body>
 </html>
