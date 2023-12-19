@@ -1,9 +1,16 @@
-// selectAd.js
-function selectAd() {
+// Function to get the ad ID
+function getAdId() {
+    // Logic to retrieve ad ID goes here.
+    // For example, this could be a random number, or fetched from a server, etc.
+    // Here's a placeholder return value for demonstration:
+    return "merrell-trail-glove-7-gore-tex";
+}
 
-    var adID = "shoes/merrell-trail-glove-7-gore-tex"
-    var adLink = "https://ads.stepwith.me/" + adID + ".html";
-    var adImage = "https://ads.stepwith.me/" + adID + ".png";
+// Function to select and display an ad
+function selectAd() {
+    var adId = getAdId(); // Retrieve the ad ID using the new function
+    var adLink = "https://ads.stepwith.me/shoes/" + adId + ".html";
+    var adImage = "https://ads.stepwith.me/shoes/" + adId + ".png";
 
     document.getElementById('ad-link').href = adLink;
     document.getElementById('ad-image').src = adImage;
