@@ -1,9 +1,17 @@
 // Function to get the ad ID
 function getAdId() {
-    // Logic to retrieve ad ID goes here.
-    // For example, this could be a random number, or fetched from a server, etc.
-    // Here's a placeholder return value for demonstration:
-    return "/shoes/merrell-trail-glove-7-gore-tex";
+    var adIds = [
+        "/shoes/merrell-trail-glove-7-gore-tex",
+        "/apparel/nike-dri-fit-shirt",
+        "/accessories/adidas-running-cap",
+        // ... add more ad IDs here
+    ];
+
+    // Generate a random index based on the array length
+    var randomIndex = Math.floor(Math.random() * adIds.length);
+
+    // Return a random ad ID from the array
+    return adIds[randomIndex];
 }
 
 // Function to select and display an ad
