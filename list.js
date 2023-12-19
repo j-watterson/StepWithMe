@@ -18,6 +18,17 @@ var itemList = [
     // ... add more items as needed*/
 ];
 
+// Function to lookup redirect URL by ID
+function lookupRedirect(id) {
+    // Find the item with the matching ID
+    var item = itemList.find(function(element) {
+        return element[0] === id;
+    });
+
+    // Return the URL (second column) if found, otherwise undefined
+    return item ? item[1] : undefined;
+}
+
 // Export the itemList array for use in other files (if using modules)
 // Uncomment the line below if you're using modules
 // export { itemList };
