@@ -11,10 +11,12 @@ var itemList = [
     ["/shoes/vivobarefoot-primus-lite-iii", "https://www.vivobarefoot.com/us/primus-lite-iii-mens-ss22", true],
     ["/shoes/vivobarefoot-primus-lite-knit-mens", "https://www.vivobarefoot.com/us/primus-lite-knit-mens", true],
     ["/shoes/vivobarefoot-tracker-fg", "https://www.vivobarefoot.com/us/tracker-ii-fg-mens-ss22", true],
-    /*["/shoes/", "linky", true],
-    ["/shoes/", "linky", true],
-    ["/shoes/", "linky", true],
-    ["/shoes/", "linky", true],
+    ["/shoes/primus-lite-all-weather-mens", "https://www.vivobarefoot.com/us/primus-lite-iii-all-weather-mens", true],
+    ["/shoes/lems-primal-2", "https://www.lemsshoes.com/products/mens-primal-2?variant=32230129827898", true],
+    ["/shoes/merrell-vapor-glove-5", "https://www.merrell.com/US/en/vapor-glove-5/195017323690.html", true],
+    ["/shoes/xero-prio-men", "https://xeroshoes.com/shop/shoes/prio-men/", true],
+    ["/shoes/vibram-kso-evo", "https://www.vibram.com/us/shop/fivefingers/men/kso-evo-mens/M07_BlackRed.html", true],
+    ["/shoes/new-balance-minimus-tr-boa", "https://www.newbalance.com/pd/minimus-tr-boa/MXMTRBW1-D-105.html", true],
     // ... add more items as needed*/
 ];
 
