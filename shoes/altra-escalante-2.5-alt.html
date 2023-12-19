@@ -15,13 +15,14 @@
 
     <script>
     // This will print the URL of the current page to the console
-    console.log(window.location.href);
+       var myURL = console.log(window.location.href);
+       var slug = fullUrl.replace('https://ads.stepwith.me', '').replace('.html','');
     </script>
 
     <script src="https://ads.stepwith.me/list.js"></script>
     <!-- JavaScript to define the redirect URL -->
     <script>
-        var itemID = "/shoes/altra-escalante-2.5";
+        var itemID = slug;
         var imgSrc = itemID + ".png";
         var redirectUrl = lookupRedirect(itemID);
     </script>
