@@ -15,8 +15,10 @@
 
     <script>
     // This will print the URL of the current page to the console
-       var myURL = console.log(window.location.href);
-       var slug = myUrl.replace('https://ads.stepwith.me', '');
+       var myURL = window.location.href;
+       console.log("URL: " + myURL);
+       var slug = myUrl.replace('https://ads.stepwith.me', '').replace('.html','');
+       console.log("slug: " + slug);
     </script>
 
     <script src="https://ads.stepwith.me/list.js"></script>
