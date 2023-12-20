@@ -11,6 +11,7 @@ var itemList = [
     ['/shoes/merrell-vapor-glove-5', 'https://www.merrell.com/US/en/vapor-glove-5/48688M.html', true],
     ['/shoes/merrell-vapor-glove-6', 'https://www.merrell.com/US/en/vapor-glove-6/195018950710.html', true],
     ['/shoes/new-balance-minimus-tr-boa', 'https://www.newbalance.com/pd/minimus-tr-boa/MXMTRBW1-D-105.html', true],
+    ['/shoes/nike-rival-waffle-6','https://www.nike.com/t/rival-waffle-6-road-and-cross-country-racing-shoes-txWgQr',true]
     ['/shoes/primus-lite-all-weather-mens', 'https://www.vivobarefoot.com/us/primus-lite-iii-all-weather-mens', true],
     ['/shoes/softstar-dash-runamoc', 'https://www.softstarshoes.com/adult-dash-runamoc.html', true],
     ['/shoes/tadeevo-bliss', 'https://tadeevo.com/en_US/p/Tadeevo-Bliss-black-minimalist-shoes/102', true],
@@ -21,7 +22,8 @@ var itemList = [
     ['/shoes/vivobarefoot-primus-lite-knit-mens', 'https://www.vivobarefoot.com/us/primus-lite-knit-mens', true],
     ['/shoes/vivobarefoot-primus-trail-ii-fg', 'https://www.vivobarefoot.com/us/primus-trail-ii-fg-mens-ss22', true],
     ['/shoes/vivobarefoot-tracker-fg', 'https://www.vivobarefoot.com/us/tracker-ii-fg-mens-ss22', true],
-    ['/shoes/xero-prio-men', 'https://xeroshoes.com/shop/shoes/prio-men/', true]
+    ['/shoes/xero-prio-men', 'https://xeroshoes.com/shop/shoes/prio-men/', true],
+    /*['/shoes/','url',true]*/
 ];
 
 // Function to lookup redirect URL by ID
