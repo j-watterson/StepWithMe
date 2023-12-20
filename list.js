@@ -13,6 +13,7 @@ var itemList = [
     ['/shoes/new-balance-minimus-tr-boa', 'https://www.newbalance.com/pd/minimus-tr-boa/MXMTRBW1-D-105.html', true],
     ['/shoes/primus-lite-all-weather-mens', 'https://www.vivobarefoot.com/us/primus-lite-iii-all-weather-mens', true],
     ['/shoes/softstar-dash-runamoc', 'https://www.softstarshoes.com/adult-dash-runamoc.html', true],
+    ['/shoes/tadeevo-bliss', 'https://tadeevo.com/en_US/p/Tadeevo-Bliss-black-minimalist-shoes/102', true],
     ['/shoes/vibram-five-fingers-v-run', 'https://www.vibram.com/us/shop/fivefingers/men/v-run-mens/M31_2_BlackYellow.html', true],
     ['/shoes/vibram-kso-evo', 'https://www.vibram.com/us/shop/fivefingers/men/kso-evo-mens/M07_BlackRed.html', true],
     ['/shoes/vivobarefoot-geo-court-iii-mens', 'https://www.vivobarefoot.com/us/geo-court-iii-mens', true],
