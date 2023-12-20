@@ -16,6 +16,7 @@ var itemList = [
     ['/shoes/vivobarefoot-geo-court-iii-mens', 'https://www.vivobarefoot.com/us/geo-court-iii-mens', true],
     ['/shoes/vivobarefoot-primus-lite-iii', 'https://www.vivobarefoot.com/us/primus-lite-iii-mens-ss22', true],
     ['/shoes/vivobarefoot-primus-lite-knit-mens', 'https://www.vivobarefoot.com/us/primus-lite-knit-mens', true],
+    ['/shoes/vivobarefoot-primus-trail-ii-fg', 'https://www.vivobarefoot.com/us/primus-trail-ii-fg-mens-ss22', true],
     ['/shoes/vivobarefoot-tracker-fg', 'https://www.vivobarefoot.com/us/tracker-ii-fg-mens-ss22', true],
     ['/shoes/xero-prio-men', 'https://xeroshoes.com/shop/shoes/prio-men/', true]
 ];
