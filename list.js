@@ -7,6 +7,7 @@ var itemList = [
     ['/shoes/altra-escalante-2.5', 'https://www.altrarunning.com/shop/men-39%3Bs-escalante-25-al0a4vqa', true],
     ['/shoes/altra-solstice-xt-2', 'https://www.altrarunning.com/shop/mens-shoes-gym-training/mens-solstice-xt-2-al0a546v', true],
     ['/shoes/inov-8-bare-xf-210-v3', 'https://www.inov-8.com/us/bare-xf-210-v3-mens-natural-training-shoe', true],
+    ['/shoes/inov-8-bare-xf-210-v3-womens','https://www.inov-8.com/us/bare-xf-210-v3-womens-natural-training-shoe',true],
     ['/shoes/joe-nimble-wandertoes-2.0', 'https://uk.joe-nimble.com/products/wandertoes-w-black', true],
     ['/shoes/lems-primal-2', 'https://www.lemsshoes.com/products/mens-primal-2?variant=32230129827898', true],
     ['/shoes/merrell-trail-glove-7-gore-tex', 'https://www.merrell.com/US/en/trail-glove-7-gore-tex/58270M.html', true],
