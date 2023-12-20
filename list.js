@@ -2,6 +2,7 @@
 // Each item has three components: [ID, URL, Boolean]
 var itemList = [
     ['/sandals/bedrock-cairn-adventure','https://bedrocksandals.com/products/cairn-sandals',true],
+    ['/sandals/earth-runners-primal-sandals','https://www.earthrunners.com/collections/elementals/products/primal-adventure-sandals',true],
     ['/sandals/xero-z-trail-ev','https://xeroshoes.com/shop/sandals/ztrail-men/',true],
     ['/shoes/altra-escalante-2.5', 'https://www.altrarunning.com/shop/men-39%3Bs-escalante-25-al0a4vqa', true],
     ['/shoes/altra-solstice-xt-2', 'https://www.altrarunning.com/shop/mens-shoes-gym-training/mens-solstice-xt-2-al0a546v', true],
