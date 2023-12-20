@@ -8,7 +8,6 @@ var itemList = [
     ['/shoes/merrell-trail-glove-7-gore-tex', 'https://www.merrell.com/US/en/trail-glove-7-gore-tex/58270M.html', true],
     ['/shoes/merrell-vapor-glove-3-luna-leather', 'https://www.merrell.com/UK/en_GB/vapor-glove-3-luna-leather/33382M.html', true],
     ['/shoes/merrell-vapor-glove-5', 'https://www.merrell.com/US/en/vapor-glove-5/48688M.html', true],
-    ['/shoes/merrell-vapor-glove-5', 'https://www.merrell.com/US/en/vapor-glove-5/195017323690.html', true],
     ['/shoes/merrell-vapor-glove-6', 'https://www.merrell.com/US/en/vapor-glove-6/195018950710.html', true],
     ['/shoes/new-balance-minimus-tr-boa', 'https://www.newbalance.com/pd/minimus-tr-boa/MXMTRBW1-D-105.html', true],
     ['/shoes/primus-lite-all-weather-mens', 'https://www.vivobarefoot.com/us/primus-lite-iii-all-weather-mens', true],
