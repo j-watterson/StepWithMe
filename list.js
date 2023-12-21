@@ -29,6 +29,7 @@ var itemList = [
     ['/shoes/vivobarefoot-tracker-fg', 'https://www.vivobarefoot.com/us/tracker-ii-fg-mens-ss22', true],
     ['/shoes/xero-360-women','https://xeroshoes.com/shop/shoes/360-women/',true],
     ['/shoes/xero-prio-men', 'https://xeroshoes.com/shop/shoes/prio-men/', true],
+    ['/shoes/xero-xcursion-fusion-boot','https://xeroshoes.com/shop/boots/xcursion-men/',true],
     /*['/shoes/','url',true],*/
 ];
 
