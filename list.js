@@ -11,6 +11,7 @@ var itemList = [
     ['/shoes/joe-nimble-wandertoes-2.0', 'https://uk.joe-nimble.com/products/wandertoes-w-black', true],
     ['/shoes/lems-boulder-boot-mens','https://www.lemsshoes.com/products/mens-boulder-boot?variant=30946208219194',true],
     ['/shoes/lems-primal-2', 'https://www.lemsshoes.com/products/mens-primal-2?variant=32230129827898', true],
+    ['/shoes/merrell-trail-glove-7','https://www.merrell.com/US/en/trail-glove-7/56426M.html',true],
     ['/shoes/merrell-trail-glove-7-gore-tex', 'https://www.merrell.com/US/en/trail-glove-7-gore-tex/58270M.html', true],
     ['/shoes/merrell-vapor-glove-3-luna-leather', 'https://www.merrell.com/UK/en_GB/vapor-glove-3-luna-leather/33382M.html', true],
     ['/shoes/merrell-vapor-glove-5', 'https://www.merrell.com/US/en/vapor-glove-5/48688M.html', true],
