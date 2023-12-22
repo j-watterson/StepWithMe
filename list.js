@@ -24,6 +24,7 @@ var itemList = [
     ['/shoes/vibram-five-fingers-v-run', 'https://www.vibram.com/us/shop/fivefingers/men/v-run-mens/M31_2_BlackYellow.html', true],
     ['/shoes/vibram-kso-evo', 'https://www.vibram.com/us/shop/fivefingers/men/kso-evo-mens/M07_BlackRed.html', true],
     ['/shoes/vivobarefoot-geo-court-iii-mens', 'https://www.vivobarefoot.com/us/geo-court-iii-mens', true],
+    ['/shoes/vivobarefoot-lisbon-dress-mens','https://www.revivo.com/mens/lisbon-mens',true],
     ['/shoes/vivobarefoot-primus-lite-iii', 'https://www.vivobarefoot.com/us/primus-lite-iii-mens-ss22', true],
     ['/shoes/vivobarefoot-primus-lite-knit-mens', 'https://www.vivobarefoot.com/us/primus-lite-knit-mens', true],
     ['/shoes/vivobarefoot-primus-trail-ii-fg', 'https://www.vivobarefoot.com/us/primus-trail-ii-fg-mens-ss22', true],
